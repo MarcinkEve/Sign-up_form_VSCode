@@ -1,6 +1,6 @@
 # Sign-Up-form
 
-Task is taken from R.Belovo "Youtube" channel.
+Task is taken from R.Belovas "Youtube" channel.
 
 ## Languages
 
